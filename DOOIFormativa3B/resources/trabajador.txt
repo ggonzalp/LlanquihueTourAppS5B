@@ -1,0 +1,3 @@
+1;Guía;aventura;Ramón Martínez;10387934-k;98775867;rmartinez@correo.cl;Las frutillas;8;Llanquihue;Chile
+2;Administrativo;Oficina;Roberto Monsalve;13985674-k;45678392;rgalvez@correo.cl;huilo huilo;9;Llanquihue;Chile
+3;Guía;Equestre;Rodolfa Donoso;19456378-0;97684657;rdonoso@correo.cl;puerto;45;Llanquihue;Chile

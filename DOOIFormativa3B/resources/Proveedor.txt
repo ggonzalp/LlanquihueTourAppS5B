@@ -1,0 +1,3 @@
+1;Luis Álvarez;78564983-0;Aventur4x4;transporte turistico;98576453;lalvarez@correo.cl;av. el lago;958;Puerto Varas;Chile
+2;José Miguel;14356476-0;Cabalgatas experience;turismo;985647382;Jm@correo.com;Los caballos;45;Chillán;Chile
+3;Hernán Soto;12345678-0;Dulce recuerdo;Gastronómico;86757453;kuchen@electronico.com;los dulces;25;Frutillar;Chile

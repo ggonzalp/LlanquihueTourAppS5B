@@ -1,0 +1,3 @@
+1;Sakura;25498673-0;Cliente;32;Japonesa;95764637;correo@electronico.com;Hashiko;23;Tokio;Japón
+2;John;12856798-9;Cliente;45;Estadounidense;95768354;correo@electronico.com;5th avenue;8;New york;EE.UU
+3;Pedro;12345657-0;Cliente;25;Mexicana;98456372;correo@electronico.com;Santa cecilia;89;Guadalajara;México

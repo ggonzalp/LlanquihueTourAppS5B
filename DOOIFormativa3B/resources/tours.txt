@@ -1,0 +1,5 @@
+1;Equestre;Cabalgata al atardecer;20000.0
+2;Aventura;Canopy;30000.0
+3;Gastronómico;La ruta del kuchen;50000.0
+4;Aventura;Rafting;85000.0
+5;Equestre;Cabalgata al amanecer;20000.0
