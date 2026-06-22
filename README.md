@@ -44,7 +44,7 @@ src/
 
 * Ejecución
 1° Clonar el repositorio:
-   git clone https://github.com/ggonzalp/LlanquihueTourAppS5.git
+   git clone https://github.com/ggonzalp/LlanquihueTourAppS5B.git
 
 2° Abrir el proyecto en IntelliJ IDEA
 
